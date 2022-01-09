@@ -47,7 +47,7 @@
         tools:text="lili@tanyani.com" />
 
     <Button
-        android:id="@+id/loginBtn"
+        android:id="@+id/loginBtnNavHeader"
         android:layout_width="wrap_content"
         android:layout_height="40dp"
         android:background="@android:color/transparent"
